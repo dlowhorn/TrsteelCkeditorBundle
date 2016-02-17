@@ -3,3 +3,4 @@
 /vendor
 /Tests/Resources/cache
 /Tests/Resources/logs
+.idea/
